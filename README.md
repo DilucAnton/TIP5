@@ -10,25 +10,29 @@
 
 ### 1. Подключение к удалённому серверу и активация PostgreSQL
 
-<img width="974" height="256" alt="connect-server" src="https://github.com/user-attachments/assets/b48e4a57-f085-462b-a6c8-8d786ae01df6" />
+<img width="1752" height="196" alt="image" src="https://github.com/user-attachments/assets/80b243e6-87d1-4ab8-98f6-1fcd2bc64e89" />
 
 ---
 
 ### 2. Создание базы данных `todo` и проверка тестовой записи
-
-<img width="961" height="150" alt="create-db" src="https://github.com/user-attachments/assets/c26c1d7f-ebce-44b9-beaf-a2d82c4f1e11" />
+<img width="621" height="29" alt="Снимок экрана 2025-12-16 в 11 51 42" src="https://github.com/user-attachments/assets/c480bc7b-e189-4476-b034-96507d557fee" />
+<br>
+<img width="792" height="104" alt="Снимок экрана 2025-12-16 в 11 50 32" src="https://github.com/user-attachments/assets/20d951a6-0de3-4128-9dd9-e73ae3faabbc" />
 
 ---
 
 ### 3. Разрешение подключения через порт 5432
 
-<img width="536" height="102" alt="port-5432" src="https://github.com/user-attachments/assets/9a68c04e-8569-4b05-9e90-ee3510c904f7" />
+<img width="274" height="28" alt="Снимок экрана 2025-12-16 в 11 51 21" src="https://github.com/user-attachments/assets/97e3433e-f051-4289-84ed-802c3bc6a3c9" />
+<br>
+<img width="321" height="48" alt="Снимок экрана 2025-12-16 в 11 50 52" src="https://github.com/user-attachments/assets/fac3cb3c-fd21-4c4d-ae10-468467e9399b" />
 
 ---
 
 ### 4. Настройка внешнего доступа к БД
-
-<img width="974" height="79" alt="external-access" src="https://github.com/user-attachments/assets/d3821b5f-f28b-42bb-ab19-20deef1a8fdc" />
+<img width="461" height="46" alt="Снимок экрана 2025-12-16 в 11 51 07" src="https://github.com/user-attachments/assets/c9436390-5e2b-47ac-b254-6b2fa0c46df8" />
+<br>
+<img width="788" height="25" alt="Снимок экрана 2025-12-16 в 11 52 04" src="https://github.com/user-attachments/assets/e2c962e1-107f-495c-9694-3db594b50831" />
 
 ---
 
@@ -45,8 +49,10 @@
 ---
 
 ### 7. Проверка данных
+<img width="597" height="26" alt="Снимок экрана 2025-12-16 в 11 53 15" src="https://github.com/user-attachments/assets/aa84f0a3-194b-4fc1-b21e-1f070051ecfc" />
+<br>
+<img width="752" height="151" alt="Снимок экрана 2025-12-16 в 11 53 39" src="https://github.com/user-attachments/assets/035de695-4fbd-41e3-bac5-71184bc5041d" />
 
-<img width="974" height="225" alt="check-data" src="https://github.com/user-attachments/assets/04be76d9-3577-4d0b-90ff-398787cae886" />
 
 ---
 
